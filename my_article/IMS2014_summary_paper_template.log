@@ -1,0 +1,383 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.9)  16 SEP 2022 00:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./IMS2014_summary_paper_template.tex
+(IMS2014_summary_paper_template.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (IMSTemplate.cls
+
+LaTeX Warning: You have requested document class `IMSTemplate',
+               but the document class provides `IEEEtran'.
+
+Document Class: IEEEtran 2005/09/13 revision V1.6c by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- The source comments contain changelog notes.
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpcountA=\count183
+\@IEEEtrantmpcountB=\count184
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 7
+90.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\@IEEEnormalsizefontbaselineskip=\skip47
+
+-- This is a 10 point document.
+\normalsizebaselineskip=\skip48
+\normaljot=\skip49
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <18> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1034.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1034.
+
+\IEEEilabelindentA=\dimen140
+\IEEEilabelindentB=\dimen141
+\IEEEilabelindentC=\dimen142
+\IEEEilabelindent=\dimen143
+\IEEEelabelindent=\dimen144
+\IEEEdlabelindent=\dimen145
+\labelindent=\dimen146
+\IEEEiednormlabelsep=\dimen147
+\IEEEiedmathlabelsep=\dimen148
+\IEEEiedtopsep=\skip50
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@IEEEsubequation=\count189
+\abovecaptionskip=\skip51
+\belowcaptionskip=\skip52
+\c@figure=\count190
+\c@table=\count191
+\@IEEEeqnnumcols=\count192
+\@IEEEeqncolcnt=\count193
+\@IEEEtmpitemindent=\dimen149
+\c@biography=\count194
+\@IEEEtranrubishbin=\box50
+) (C:\Program Files\MiKTeX\tex/generic/epsf\epsf.tex
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read2
+\epsfframemargin=\dimen150
+\epsfframethickness=\dimen151
+\epsfrsize=\dimen152
+\epsftmp=\dimen153
+\epsftsize=\dimen154
+\epsfxsize=\dimen155
+\epsfysize=\dimen156
+\pspoints=\dimen157
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+)
+(C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
+(C:\Program Files\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count195
+\float@exts=\toks18
+\float@box=\box51
+\@float@everytoks=\toks19
+\@floatcapt=\box52
+)
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks20
+\c@algorithm=\count196
+)
+(C:\Program Files\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+
+(C:\Program Files\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count197
+\c@ALG@rem=\count198
+\c@ALG@nested=\count199
+\ALG@tlm=\skip62
+\ALG@thistlm=\skip63
+\c@ALG@Lnr=\count266
+\c@ALG@blocknr=\count267
+\c@ALG@storecount=\count268
+\c@ALG@tmpcounter=\count269
+\ALG@tmplength=\skip64
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box53
+)
+(IMS2014_summary_paper_template.aux
+
+LaTeX Warning: Label `alg:cap' multiply defined.
+
+)
+\openout1 = `IMS2014_summary_paper_template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen160
+\scratchbox=\box54
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen161
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks22
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 54.
+
+** ATTENTION: Overriding command lockouts (line 62).
+[1{C:/Users/marou/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<1111.png, id=12, 544.28343pt x 353.82187pt>
+File: 1111.png Graphic file (type png)
+<use 1111.png>
+Package pdftex.def Info: 1111.png  used on input line 183.
+(pdftex.def)             Requested size: 256.07071pt x 199.17007pt.
+
+Overfull \hbox (4.07071pt too wide) in paragraph at lines 183--185
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<2222.png, id=13, 535.2497pt x 370.38374pt>
+File: 2222.png Graphic file (type png)
+<use 2222.png>
+Package pdftex.def Info: 2222.png  used on input line 190.
+(pdftex.def)             Requested size: 256.08388pt x 199.17345pt.
+
+Overfull \hbox (4.08388pt too wide) in paragraph at lines 190--192
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3333.png, id=14, 531.48563pt x 363.60844pt>
+File: 3333.png Graphic file (type png)
+<use 3333.png>
+Package pdftex.def Info: 3333.png  used on input line 197.
+(pdftex.def)             Requested size: 256.07527pt x 199.17522pt.
+
+Overfull \hbox (4.07527pt too wide) in paragraph at lines 197--199
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2]
+<4444.png, id=20, 530.73282pt x 370.38374pt>
+File: 4444.png Graphic file (type png)
+<use 4444.png>
+Package pdftex.def Info: 4444.png  used on input line 204.
+(pdftex.def)             Requested size: 256.07698pt x 199.17345pt.
+
+Overfull \hbox (4.07698pt too wide) in paragraph at lines 204--206
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<5555.png, id=21, 259.7203pt x 277.78781pt>
+File: 5555.png Graphic file (type png)
+<use 5555.png>
+Package pdftex.def Info: 5555.png  used on input line 222.
+(pdftex.def)             Requested size: 170.71448pt x 142.2633pt.
+[3 <./1111.png> <./2222.png> <./3333.png> <./4444.png> <./5555.png>]
+<6666.png, id=25, 483.60675pt x 246.9225pt>
+File: 6666.png Graphic file (type png)
+<use 6666.png>
+Package pdftex.def Info: 6666.png  used on input line 261.
+(pdftex.def)             Requested size: 256.07422pt x 113.80801pt.
+
+Overfull \hbox (4.07422pt too wide) in paragraph at lines 261--263
+ [][] 
+ []
+
+<7777.png, id=27, 403.5075pt x 569.87906pt>
+File: 7777.png Graphic file (type png)
+<use 7777.png>
+Package pdftex.def Info: 7777.png  used on input line 268.
+(pdftex.def)             Requested size: 199.1673pt x 256.06929pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+
+ []
+
+
+Overfull \hbox (33.5179pt too wide) in paragraph at lines 276--289
+[][] 
+ []
+
+
+Overfull \hbox (222.9807pt too wide) in paragraph at lines 296--305
+ [][] 
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the US letter (8.5in X 11in) paper size.
+
+[4 <./6666.png> <./7777.png>] (IMS2014_summary_paper_template.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2845 strings out of 478659
+ 47602 string characters out of 2855778
+ 365606 words of memory out of 3000000
+ 20938 multiletter control sequences out of 15000+600000
+ 436718 words of font info for 83 fonts, out of 8000000 for 9000
+ 1145 hyphenation exceptions out of 8191
+ 55i,12n,62p,817b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/font
+s/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on IMS2014_summary_paper_template.pdf (4 pages, 375941 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
