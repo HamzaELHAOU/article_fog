@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.19)  29 NOV 2025 22:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.19)  29 NOV 2025 22:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,36 +394,36 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 58
 (C:\Users\NUITEE\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
-[]\OT1/ptm/b/it/9 Abstract\OT1/ptm/b/n/9 ---This ar-ti-cle fo-cuses on min-i-mi
-z-ing en-ergy
- []
+
+LaTeX Warning: Citation `ref11' on page 1 undefined on input line 72.
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 60--63
-\OT1/ptm/b/n/9 learn-ing meth-ods in min-i-miz-ing en-ergy con-sump-tion and
- []
+LaTeX Warning: Citation `ref12' on page 1 undefined on input line 76.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--84
+LaTeX Warning: Citation `ref13' on page 1 undefined on input line 86.
 
- []
+
+LaTeX Warning: Citation `ref20' on page 1 undefined on input line 87.
 
 <fog.png, id=1, 460.72125pt x 296.60812pt>
 File: fog.png Graphic file (type png)
 <use fog.png>
-Package pdftex.def Info: fog.png  used on input line 94.
+Package pdftex.def Info: fog.png  used on input line 90.
 (pdftex.def)             Requested size: 208.79681pt x 134.41832pt.
 [1{C:/Users/NUITEE/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/N
 UITEE/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
 ]
+
+LaTeX Warning: Citation `ref15' on page 2 undefined on input line 101.
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -437,33 +437,36 @@ Before submitting the final camera ready copy, remember to:
 
 - LAST -
 Extra skip:0.0pt
-Left:556.68666pt/2.16492pt
-Right:555.05983pt/1.73193pt
-Split: 555.87325pt
-Output:555.87325pt
-Pageshrink: 29.05006pt
-Pagestretch: 45.44995pt
+Left:470.52174pt/0.11491pt
+Right:469.4999pt/1.73193pt
+Split: 470.01082pt
+Output:470.01082pt
+Pageshrink: 28.60005pt
+Pagestretch: 40.04999pt
 @colht:670.0pt
-FLUSHEND [output]: 555.87325pt
+FLUSHEND [output]: 470.01082pt
 FLUSHEND [leftcolumn badness]: 0
 FUSHEND [rightcolumn badness]: 0
-[2 <./fog.png>] (Article hamza.aux) ) 
+[2 <./fog.png>] (Article hamza.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4814 strings out of 476331
- 75603 string characters out of 5787293
- 1872660 words of memory out of 5000000
- 25182 multiletter control sequences out of 15000+600000
- 547900 words of font info for 109 fonts, out of 8000000 for 9000
+ 4797 strings out of 476331
+ 75491 string characters out of 5787293
+ 1868660 words of memory out of 5000000
+ 25166 multiletter control sequences out of 15000+600000
+ 546804 words of font info for 108 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  57i,12n,62p,925b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/NUITEE/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/NUITEE/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/NUITEE/AppData/Local/P
-rograms/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/NUITEE/AppData/Local
-/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "Article hamza.pdf" (2 pages, 148503 bytes).
+<C:/Users/NUITEE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmsy7.pfb><C:/Users/NUITEE/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmb8a.pfb><C:/Users/NUITEE/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
+s/utmr8a.pfb>
+Output written on "Article hamza.pdf" (2 pages, 133956 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
